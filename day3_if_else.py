@@ -3,4 +3,4 @@ if marks >= 90:
     print("excellent")
 else:
     print("good try")
-    print("program over")
+print("program over")
